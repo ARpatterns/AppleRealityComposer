@@ -17,18 +17,19 @@ Reality Composer is a no-code AR app available for iPhone and iPad and may be do
 
 ### Ahead Staging
 
-<img src="image/README/1725866815275.png" width="170" hight="300" align="left">
-<img src="image/README/1725867086089.png" width="170" hight="300" align="left">
-<img src="image/README/1725867132198.png" width="170" hight="300" align="left">
-
-
-
-
-
-
+![1725881155863](image/README/1725881155863.png)![1725881237738](image/README/1725881237738.png)![1725881250494](image/README/1725881250494.png)
 
 Presentation of 3D content ahead of user.
 
 * _Behavioral Patterns_: Instant Reaction or Indirect Reaction
 * _Augmentation Patterns_: Ahead Staging
-* _Project Link_:
+* _Project Link_: [Ahead Staging ](AheadStaging)
+
+
+### Geolocated Remark
+
+Presentation of georeferenced information.
+
+* _Behavioral Patterns_: Instant Reaction, Request-Response Pattern
+* _Augmentation Patterns_: Geolocated Remark
+* _Project Link_: [GeolocatedRemark](GeolocatedRemark)
