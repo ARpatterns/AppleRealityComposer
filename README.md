@@ -33,3 +33,15 @@ Presentation of georeferenced information.
 * _Behavioral Patterns_: Instant Reaction, Request-Response Pattern
 * _Augmentation Patterns_: Geolocated Remark
 * _Project Link_: [GeolocatedRemark](GeolocatedRemark)
+
+### Anchored Supplement
+
+GIF:
+
+![1725977866268](image/README/1725977866268.png)
+
+Presentation of 3D content aligned to detected entity for enhancement.
+
+* _Behavioral Patterns_: Indirect Reaction
+* _Augmentation Patterns_: Captured Twin, Anchored Supplement 
+* _Project Link_: [AnchoredSupplement](AnchoredSupplement)

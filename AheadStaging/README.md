@@ -27,7 +27,7 @@ __Augmentation Pattern__
 
 ### Projekt file
 
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples)
+* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
 
 ## Multiple Ahead Staging
 
@@ -36,12 +36,16 @@ __Augmentation Pattern__
 ### AR Patterns
 
 __Behavior Pattern__
+
 * _Event_: on floor detection
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of a list of staging ahead actions.
 
 __Augmentation Patterns__
+
 * [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting three 3D objects 1 m in front of the user at differnt heights.
   * _Placed_: initial ahead of the user. The first on the floor, the others above it.
-  * _Aligned_: initial towards the user in view direction. 
+  * _Aligned_: initial towards the user in view direction.
 
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples)
+### Project File
+
+* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/MultipleAheadStaging)
