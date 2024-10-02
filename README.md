@@ -9,7 +9,7 @@
 - _Editor Environment_: Apple Reality Composer
 - _Development Method_: Visual no-code with drag-and-drop interface
 
-### Reality Composer App
+## Reality Composer App
 
 Reality Composer is a no-code AR app available for iPhone and iPad and may be download for free on the Apple App Store. The following scenarios of applied AR Patterns listed below are all provided as Reality Composer projects.
 
@@ -25,7 +25,6 @@ Presentation of 3D content ahead of user.
 * _Augmentation Patterns_: Ahead Staging
 * _Project Link_: [Ahead Staging ](AheadStaging)
 
-
 ### Geolocated Remark
 
 Presentation of georeferenced information.
@@ -36,12 +35,10 @@ Presentation of georeferenced information.
 
 ### Anchored Supplement
 
-GIF:
-
 ![1725977866268](image/README/1725977866268.png)
 
 Presentation of 3D content aligned to detected entity for enhancement.
 
 * _Behavioral Patterns_: Indirect Reaction
-* _Augmentation Patterns_: Captured Twin, Anchored Supplement 
+* _Augmentation Patterns_: Captured Twin, Anchored Supplement
 * _Project Link_: [AnchoredSupplement](AnchoredSupplement)
