@@ -33,7 +33,7 @@ __Augmentation Pattern__
 
 ## Multiple Ahead Staging
 
-![Zylinder auf Feder](bilder/IMG_0004%20copy.png)
+![1727880645103](image/README/1727880645103.png)
 
 ### AR Patterns
 
