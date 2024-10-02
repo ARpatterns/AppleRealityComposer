@@ -33,7 +33,7 @@ __Augmentation Pattern__
 
 ## Multiple Ahead Staging
 
-![1727880645103](image/README/1727880645103.png)
+![1727880751448](image/README/1727880751448.png)
 
 ### AR Patterns
 
