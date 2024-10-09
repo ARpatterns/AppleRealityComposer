@@ -60,13 +60,13 @@ __Augmentation Patterns__
 
 __Behavior Pattern__
 
-* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon pressing the chessboard, it initiates the ahead staging action, arranging the chess pieces on the board.
+* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon pressing the red button, it initiates the ahead staging action, arranging the chess pieces on the board.
   * _Event_: on tapping
 
 __Augmentation Pattern__
 
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): placing virtual 3D objects 1 m in front of the user on the floor.
-  * _Placed_: initial ahead of the user on the floor.
+* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): placing virtual 3D objects 1 m in front of the user on the platform.
+  * _Placed_: initial ahead of the user on the platform.
   * _Aligned_: initial towards the user in view direction.
 
 ### Project File
