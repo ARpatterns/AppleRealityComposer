@@ -8,3 +8,5 @@ A captured twin is a virtual replica of a physical element. It is created using 
 * _Technology Platform_: [Reality Composer](../README.md)
 * _Device Type_: handheld
 * _Vision System_: world camera
+
+![1728485845003](image/README/1728485845003.png)
