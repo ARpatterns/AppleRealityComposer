@@ -27,7 +27,7 @@ __Augmentation Pattern__
   * _Aligned_: initial towards the user in view direction.
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor. If the object is rotated around the AR anchor in the world coordinate system, it turns by it's center up axis.
 
-### Projekt file
+### Project file
 
 * _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
 
@@ -54,7 +54,7 @@ __Augmentation Patterns__
 
 ## Indirect Ahead Staging
 
-![1727875816941](image/README/1727875816941.png)
+![1728467189303](image/README/1728467189303.png)
 
 ### AR Patterns
 
