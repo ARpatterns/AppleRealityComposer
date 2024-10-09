@@ -35,7 +35,7 @@ Presentation of georeferenced information.
 
 ### Anchored Supplement
 
-![1725977866268](image/README/1725977866268.png)
+![1728476929004](image/README/1728476929004.png)
 
 Presentation of 3D content aligned to detected entity for enhancement.
 
