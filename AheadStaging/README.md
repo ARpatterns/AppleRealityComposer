@@ -1,6 +1,6 @@
 # Ahead Staging
 
-![1728561468588](image/README/1728561468588.png)
+![image](AheadStaging/image/README/Ahead_staging.png)
 
 Ahead staging is a technique for presenting 3D content in a way that it is aligned to the spectator’s position and view direction. After the initial staging, users can interact with the virtual scene from their current position or move toward and around the staged content.
 
@@ -11,7 +11,7 @@ Ahead staging is a technique for presenting 3D content in a way that it is align
 
 ## Instant Ahead Staging
 
-![Metallkugel](image/README/1725876884916.png)
+![image](AheadStaging/image/README/Metal_ball.png)
 
 ### AR Patterns
 
@@ -33,7 +33,7 @@ __Augmentation Pattern__
 
 ## Multiple Ahead Staging
 
-![1727880751448](image/README/1727880751448.png)
+![image](AheadStaging/image/README/Cylinder_spring.png)
 
 ### AR Patterns
 
@@ -54,7 +54,7 @@ __Augmentation Patterns__
 
 ## Indirect Ahead Staging
 
-![1728557843625](image/README/1728557843625.png)
+![image](AheadStaging/image/README/Chessboard.gif)
 
 ### AR Patterns
 
