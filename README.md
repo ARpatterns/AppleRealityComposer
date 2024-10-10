@@ -2,7 +2,7 @@
 
 ## Technology Platform: Apple Reality Composer
 
-<img src="image/README/1725449032023.png" width="120" align="right">
+<img src="image/README/Reality_composer_logo.png" width="120" align="right">
 
 - _Software Stack_: Apple Reality Composer
 - _Supported Devices_: Handheld iOS devices (iPhones, iPads)
@@ -35,7 +35,7 @@ Presentation of georeferenced information.
 
 ### Anchored Supplement
 
-![1728476929004](image/README/1728476929004.png)
+![image](image/README/Bottle_water.png) &nbsp; &nbsp;
 
 Presentation of 3D content aligned to detected entity for enhancement.
 
