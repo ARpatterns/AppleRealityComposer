@@ -27,6 +27,12 @@ __Augmentation Pattern__
   * _Aligned_: initial towards the user in view direction.
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor. If the object is rotated around the AR anchor in the world coordinate system, it turns by it's center up axis.
 
+### Diagram
+| on:command | &rarr; | do:add ahead 0 0 -1 |
+| ---------: | ------ | --------------------- |
+
+> 'metall.ball' ➕
+
 ### Project file
 
 * _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
@@ -48,6 +54,19 @@ __Augmentation Patterns__
   * _Placed_: initial ahead of the user. The first on the floor, the others above it.
   * _Aligned_: initial towards the user in view direction.
 
+### Diagram
+| on:command | &rarr; | do:add ahead 0 0 -1 |
+| ---------- | ------ | --------------------- |
+
+> 'spring' ➕
+
+| on:command | &rarr; | do:add ahead 0 0.87 -1 |
+| ---------- | ------ | ------------------------ |
+
+> 'cylinder' ➕
+
+
+
 ### Project File
 
 * _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/MultipleAheadStaging)
@@ -68,6 +87,27 @@ __Augmentation Pattern__
 * [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): placing virtual 3D objects 1 m in front of the user on the platform.
   * _Placed_: initial ahead of the user on the platform.
   * _Aligned_: initial towards the user in view direction.
+
+### Diagram
+| on:command | &rarr; | do:add |
+| ---------- | ------ | ------ |
+
+> 'chessboard' ➕
+
+| on:command | &rarr; | do:add |
+| ---------- | ------ | ------ |
+
+> 'red.button' ➕
+
+| on:command | &rarr; | do:add |
+| ---------- | ------ | ------ |
+
+> 'text' ➕
+
+| on: button press | &rarr; | do:add ahead |
+| --------- | --------------------- | --------------------- |
+
+> 'chess.figures' ➕
 
 ### Project File
 
