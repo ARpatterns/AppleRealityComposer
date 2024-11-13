@@ -2,7 +2,7 @@
 
 ## Technology Platform: Apple Reality Composer
 
-<img src="image/README/Reality_composer_logo.png" width="120" align="right">
+<img src="image/Reality_composer_logo.png" width="120" align="right">
 
 - _Software Stack_: Apple Reality Composer
 - _Supported Devices_: Handheld iOS devices (iPhones, iPads)
