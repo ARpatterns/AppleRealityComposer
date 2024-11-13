@@ -17,9 +17,9 @@ Reality Composer is a no-code AR app available for iPhone and iPad and may be do
 
 ### Ahead Staging
 
-![image](image/README/Metal_ball.png)
-![image](image/README/Cylinder_spring.png)
-![image](image/README/Pool_balls.png)
+![image](image/Metal_ball.png)
+![image](image/Cylinder_spring.png)
+![image](image/Pool_balls.png)
 
 Presentation of 3D content ahead of user.
 
@@ -37,7 +37,7 @@ Presentation of georeferenced information.
 
 ### Anchored Supplement
 
-![image](image/README/Bottle_water.png)
+![image](image/Bottle_water.png)
 
 Presentation of 3D content aligned to detected entity for enhancement.
 
