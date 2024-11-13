@@ -25,15 +25,7 @@ Presentation of 3D content ahead of user.
 
 * _Behavioral Patterns_: Instant Reaction or Indirect Reaction
 * _Augmentation Patterns_: Ahead Staging
-* _Project Link_: [Ahead Staging ](AheadStaging)
-
-### Geolocated Remark
-
-Presentation of georeferenced information.
-
-* _Behavioral Patterns_: Instant Reaction, Request-Response Pattern
-* _Augmentation Patterns_: Geolocated Remark
-* _Project Link_: [GeolocatedRemark](GeolocatedRemark)
+* _Project Link_: [Ahead Staging ](AheadStaging/README.md)
 
 ### Anchored Supplement
 
