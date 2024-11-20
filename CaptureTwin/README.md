@@ -11,7 +11,7 @@ A *captured twin* is a digital replica of a physical object, created using data 
 
 ## 3D Object Capture
 
-![image](image/3D_capture.jpg)
+<img src="image/3D_capture.jpg" width="420"/>
 
 Apple's Reality Composer uses the "Object Capture" feature to create realistic 3D models from photographs. The process involves positioning the object in good lighting, adjusting the capture frame and capturing images by moving your device around the object in multiple loops at different angles.
 
