@@ -9,7 +9,7 @@ A *captured twin* is a digital replica of a physical object, created using data 
 * _Device Type_: handheld
 * _Vision System_: world camera
 
-## 3D Capture
+## 3D Object Capture
 
 ![image](image/3D_capture.jpg)
 
