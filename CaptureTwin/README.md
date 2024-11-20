@@ -11,7 +11,7 @@ A *captured twin* is a digital replica of a physical object, created using data 
 
 ## 3D Object Capture
 
-<img src="image/3D_capture.jpg" width="420"/>
+<img src="image/3D_capture.jpg" width="450"/>
 
 Apple's Reality Composer uses the "Object Capture" feature to create realistic 3D models from photographs. To achieve optimal results, position the object in a well-lit environment with even lighting to minimize shadows. Adjust the capture frame to fully enclose the object, then move your device around it slowly to capture images from multiple angles, ensuring complete coverage for photogrammetry.
 
@@ -19,7 +19,10 @@ Apple's Reality Composer uses the "Object Capture" feature to create realistic 3
 
 The app processes these images to generate a detailed 3D model, which can be viewed, manipulated, or used in AR. Models can be saved as USDZ files for cross-platform compatibility or reprocessed on a Mac for enhanced quality.
 
+### Captured Twin
+
 <img src="image/Aromat_twin.png" width="270"/>
+<img src="image/Bottle.png" width="282.5"/>
 
 Presentation of captured twin next to the original.
 
@@ -29,4 +32,3 @@ __Behavior Pattern__
 
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md):
 
-![image](image/Bottle.png)
