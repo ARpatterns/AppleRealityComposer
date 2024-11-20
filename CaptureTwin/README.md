@@ -19,6 +19,19 @@ Apple's Reality Composer uses the "Object Capture" feature to create realistic 3
 
 The app processes these images to generate a detailed 3D model, which can be viewed, manipulated, or used in AR. Models can be saved as USDZ files for cross-platform compatibility or reprocessed on a Mac for enhanced quality.
 
+### Capture Workflow
+
+__Preparation Steps__
+* _Lighting and Positioning_: Ensure the object is placed in a well-lit environment with even lighting to minimize shadows.
+* _Framing the Object_: Adjust the capture frame to fully enclose the object and ensure all details are visible.
+
+__Capture Process__
+* _Multi-Angle Imaging_: Move around the object slowly, capturing images from multiple angles to provide complete coverage for accurate 3D reconstruction.
+* _Real-Time Feedback_: Follow on-screen guides to refine your positioning and ensure all areas of the object are adequately scanned.
+
+__Post-Capture Tips__
+* Optionally reprocess the captured data on a Mac for higher-quality results.
+
 <img src="image/Aromat_twin.png" width="270"/>
 
 Presentation of captured twin next to the original.
