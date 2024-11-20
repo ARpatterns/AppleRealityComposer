@@ -22,14 +22,15 @@ __Behavior Pattern__
 
 __Augmentation Pattern__
 
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting 3D object 1 m  in front of the user.
+* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting 3D object 1 m in front of the user.
   * _Placed_: initial ahead of the user on the floor.
   * _Aligned_: initial towards the user in view direction.
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor. If the object is rotated around the AR anchor in the world coordinate system, it turns by it's center up axis.
 
 ### Diagram
+
 | on:command | &rarr; | do:add ahead 0 0 -1 |
-| ---------: | ------ | --------------------- |
+| ---------: | ------ | ------------------- |
 
 > 'metall.ball' ➕
 
@@ -55,17 +56,16 @@ __Augmentation Patterns__
   * _Aligned_: initial towards the user in view direction.
 
 ### Diagram
+
 | on:command | &rarr; | do:add ahead 0 0 -1 |
-| ---------- | ------ | --------------------- |
+| ---------- | ------ | ------------------- |
 
 > 'spring' ➕
 
 | on:command | &rarr; | do:add ahead 0 0.87 -1 |
-| ---------- | ------ | ------------------------ |
+| ---------- | ------ | ---------------------- |
 
 > 'cylinder' ➕
-
-
 
 ### Project File
 
@@ -89,6 +89,7 @@ __Augmentation Pattern__
   * _Aligned_: initial towards the user in view direction.
 
 ### Diagram
+
 | on:command | &rarr; | do:add |
 | ---------- | ------ | ------ |
 
@@ -105,7 +106,7 @@ __Augmentation Pattern__
 > 'text' ➕
 
 | on: button press | &rarr; | do:add ahead |
-| --------- | --------------------- | --------------------- |
+| ---------------- | ------ | ------------ |
 
 > 'chess.figures' ➕
 
