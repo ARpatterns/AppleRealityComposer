@@ -21,8 +21,7 @@ The app processes these images to generate a detailed 3D model, which can be vie
 
 ### Captured Twin
 
-<img src="image/Aromat_twin.png" width="40"/>
-<img src="image/Bottle.png" width="51.5"/>
+<img src="image/Aromat_twin.png" width="240"/> <img src="image/Bottle.png" width="251"/>
 
 Presentation of captured twin next to the original.
 
