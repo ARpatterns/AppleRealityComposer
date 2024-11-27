@@ -9,4 +9,4 @@ A pass-trough portal is an augmentation that is initially occluded by a virtual 
 * _Device Type_: Handheld
 * _Vision System_: World camera
 
-## Instant Ahead Staging
+## Encapsulated 360° USDZ Sphere
