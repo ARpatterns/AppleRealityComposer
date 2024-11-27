@@ -12,8 +12,8 @@ users to interact with them in AR environments.
 
 * _Use Case_: Virtual Object Replica
 * _Technology Platform_: [Reality Composer](../README.md)
-* _Device Type_: handheld
-* _Vision System_: world camera
+* _Device Type_: Handheld
+* _Vision System_: World camera
 
 ## 3D Object Capture
 
@@ -22,10 +22,10 @@ users to interact with them in AR environments.
 Apple's Reality Composer uses the "Object Capture" feature to create realistic
 3D models from photographs. To achieve optimal results, position the object in a well-lit
 environment with even lighting to minimize shadows. Adjust the capture frame to fully enclose
-the object, then move your device around it slowly to capture images from multiple angles,
-ensuring complete coverage for photogrammetry.
+the object [PictureOfMouse1](image/Interface.png), then move your device around it slowly to capture images from multiple angles [PictureOfMouse2](image/Interface2.jpg),
+ensuring complete coverage for photogrammetry [PictureOfMouse3](image/Interface3.jpg).
 
-<img src="image/Interface.png" width="220"/> <img src="image/Interface2.jpg" width="189"/> <img src="image/Interface3.jpg" width="190"/>
+<img src="image/Interface.png" width="219.5"/> <img src="image/Interface2.jpg" width="189"/> <img src="image/Interface3.jpg" width="191"/>
 
 The app processes these images to generate a detailed 3D
 model, which can be viewed, or used in AR.
@@ -52,6 +52,16 @@ __Augmentation Pattern__
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor.
 
 ### ECA Diagram
+| on:command | &rarr; | do:import |
+| ---------- | ------ | --------- |
+
+> 'Aromat' ➕
+
+| on:command | &rarr; | do:add ahead |
+| ---------- | ------ | ------------ |
+
+> 'Aromat' ➕
+
 
 | on:command | &rarr; | do:import |
 | ---------- | ------ | --------- |
