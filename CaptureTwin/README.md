@@ -52,6 +52,7 @@ __Augmentation Pattern__
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor.
 
 ### ECA Diagram
+
 | on:command | &rarr; | do:import |
 | ---------- | ------ | --------- |
 
