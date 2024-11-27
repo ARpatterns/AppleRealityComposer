@@ -28,7 +28,7 @@ ensuring complete coverage for photogrammetry.
 <img src="image/Interface.png" width="220"/> <img src="image/Interface2.jpg" width="189"/> <img src="image/Interface3.jpg" width="190"/>
 
 The app processes these images to generate a detailed 3D
-model, which can be viewed, manipulated, or used in AR.
+model, which can be viewed, or used in AR.
 Models can be saved as USDZ files for cross-platform
 compatibility or reprocessed on a Mac for enhanced quality.
 
