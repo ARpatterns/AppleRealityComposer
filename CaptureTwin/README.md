@@ -56,7 +56,7 @@ __Augmentation Pattern__
 | on:command | &rarr; | do:import |
 | ---------- | ------ | --------- |
 
-> 'Aromat' ➕
+> 'Aromat' :arrow_down:
 
 | on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------------ |
@@ -67,7 +67,7 @@ __Augmentation Pattern__
 | on:command | &rarr; | do:import |
 | ---------- | ------ | --------- |
 
-> 'Bottle' ➕
+> 'Bottle' :arrow_down:
 
 | on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------------ |

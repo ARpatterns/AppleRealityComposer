@@ -6,5 +6,7 @@ A pass-trough portal is an augmentation that is initially occluded by a virtual 
 
 * _Use Case_: Immersive Spatial Exploration
 * _Technology Platform_: [Reality Composer](../README.md)
-* _Device Type_: handheld
-* _Vision System_: world camera
+* _Device Type_: Handheld
+* _Vision System_: World camera
+
+## Instant Ahead Staging
