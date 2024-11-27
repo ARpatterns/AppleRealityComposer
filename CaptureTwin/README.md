@@ -53,7 +53,7 @@ __Augmentation Pattern__
 
 ### ECA Diagram
 
-| on:command | &rarr; | do:import |
+| on:command | &rarr; | do:import to project |
 | ---------- | ------ | --------- |
 
 > 'Aromat' :arrow_down:
@@ -64,7 +64,7 @@ __Augmentation Pattern__
 > 'Aromat' ➕
 
 
-| on:command | &rarr; | do:import |
+| on:command | &rarr; | do:import to project |
 | ---------- | ------ | --------- |
 
 > 'Bottle' :arrow_down:
