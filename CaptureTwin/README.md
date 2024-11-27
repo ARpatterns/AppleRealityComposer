@@ -41,8 +41,8 @@ compatibility or reprocessed on a Mac for enhanced quality.
 __Behavior Pattern__
 
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md):
-  Immediate execution of the staging ahead action upon import of the Captured Twin
-  * _Event_: On floor detection
+  Immediate execution of the staging ahead action upon import of the captured twin.
+  * _Event_: On floor detection.
 
 __Augmentation Pattern__
 
@@ -56,23 +56,16 @@ __Augmentation Pattern__
 | on:command | &rarr; | do:import |
 | ---------- | ------ | --------- |
 
-> 'Aromat_twin' ➕
-
-
+> 'Bottle' ➕
 
 | on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------------ |
 
-> 'Aromat_twin' ➕
+> 'Bottle' ➕
 
+## References
+> [!TIP]
+> Try out the examples: Download and try the files in [ProjectExamples](CaptureTwin/ProjectExamples) for your AR experience with your own iOS device.
 
-
-Import
-choose +
-on command do add ahead, siehe ahead staging
-
-### AR Patterns
-
-__Behavior Pattern__
-
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md):
+- Apple Reality Composer [App](https://apps.apple.com/us/app/reality-composer/id1462358802)
+- ECA [Diagram](https://github.com/ARpatterns/diagram)
