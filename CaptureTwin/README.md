@@ -2,11 +2,11 @@
 
 ![image](image/Capture_twin.png)
 
-A *captured twin* is a digital replica of a physical object,
+A captured twin is a digital replica of a physical object,
 created using data from sensors or cameras. In Reality Composer,
-this process, known as  *3D Capture*, involves taking multiple
+this process, known as  3D Capture, involves taking multiple
 images of an object from different angles and using
-*photogrammetry* to combine them into a 3D model. These models
+photogrammetry to combine them into a 3D model. These models
 can then be imported into Reality Composer projects, allowing
 users to interact with them in AR environments.
 
