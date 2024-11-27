@@ -29,9 +29,17 @@ ensuring complete coverage for photogrammetry.
 
 The app processes these images to generate a detailed 3D model, which can be viewed, manipulated, or used in AR. Models can be saved as USDZ files for cross-platform compatibility or reprocessed on a Mac for enhanced quality.
 
-### Captured Twin
+## Captured Twin Ahead Staging
 
 <img src="image/Aromat_twin.png" width="240"/> <img src="image/Bottle.png" width="251"/>
+
+### AR Patterns
+
+__Behavior Pattern__
+
+
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of the staging ahead action
+  * _Event_: on floor detection
 
 Presentation of captured twin next to the original.
 
