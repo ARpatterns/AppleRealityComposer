@@ -41,15 +41,14 @@ compatibility or reprocessed on a Mac for enhanced quality.
 __Behavior Pattern__
 
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md):
-  After Import of the captured twin. Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage.
+  After Object Capture and import of the captured twin. Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage.
   * _Event_: Horizontal plane detection.
 
 __Augmentation Pattern__
 
 * [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): Presenting the captured 3D twin object in front of the user.
-  * _Placed_: Initial ahead of the user on the floor next to the original.
-  * _Aligned_: Initial towards the user in view direction.
-  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor.
+  * _Placed_: Initial ahead of the user on the floor immediately upon floor detection.
+  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the anchorage point.
 
 ### ECA Diagram
 
