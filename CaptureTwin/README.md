@@ -32,7 +32,7 @@ model, which can be viewed, or used in AR.
 Models can be saved as USDZ files for cross-platform
 compatibility or reprocessed on a Mac for enhanced quality.
 
-## Captured Twin Ahead Staging
+## Captured Twin Instant Ahead Staging
 
 <img src="image/Aromat_twin.png" width="240"/> <img src="image/Bottle.png" width="251"/>
 
