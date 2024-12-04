@@ -17,15 +17,14 @@ Ahead staging is a technique for presenting 3D content in a way that it is align
 
 __Behavior Pattern__
 
-* _Event_: on floor detection
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of the staging ahead action
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage point.
+  * _Event_: Horizontal plane detection.
 
 __Augmentation Pattern__
 
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting 3D object 1 m in front of the user.
-  * _Placed_: initial ahead of the user on the floor.
-  * _Aligned_: initial towards the user in view direction.
-  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the ground floor. If the object is rotated around the AR anchor in the world coordinate system, it turns by it's center up axis.
+* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): Presenting the captured 3D twin object in front of the user.
+  * _Placed_: Initial ahead of the user on the floor immediately upon floor detection.
+  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the anchorage point.
 
 ### Diagram
 
