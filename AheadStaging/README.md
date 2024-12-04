@@ -22,8 +22,8 @@ __Behavior Pattern__
 
 __Augmentation Pattern__
 
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): Presenting the captured 3D twin object in front of the user.
-  * _Placed_: Initial ahead of the user on the floor immediately upon floor detection.
+* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): Presenting the object in front of the user.
+  * _Placed_: Initial ahead of the user immediately upon anchor point detection.
   * _Pivot_: Reality Composer objects in the local coordinate system are centered on the anchorage point.
 
 ### Diagram
