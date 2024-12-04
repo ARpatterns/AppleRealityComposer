@@ -54,20 +54,19 @@ __Augmentation Pattern__
 ### ECA Diagram
 
 | on:command | &rarr; | do:import to project |
-| ---------- | ------ | --------- |
+| ---------- | ------ | -------------------- |
 
-> 'Aromat' :arrow_down:
+> 'Aromat' ⬇️
 
 | on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------------ |
 
 > 'Aromat' ➕
 
-
 | on:command | &rarr; | do:import to project |
-| ---------- | ------ | --------- |
+| ---------- | ------ | -------------------- |
 
-> 'Bottle' :arrow_down:
+> 'Bottle' ⬇️
 
 | on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------------ |
@@ -75,6 +74,7 @@ __Augmentation Pattern__
 > 'Bottle' ➕
 
 ## References
+
 > [!TIP]
 > Try out the examples: Download and try the files in [ProjectExamples](ProjectExamples) for your AR experience with your own iOS device.
 
