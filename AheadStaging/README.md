@@ -28,8 +28,13 @@ __Augmentation Pattern__
 
 ### Diagram
 
-| on:command | &rarr; | do:add ahead 0 0 -1 |
-| ---------: | ------ | ------------------- |
+| on:command | &rarr; | do:import to project |
+| ---------- | ------ | -------------------- |
+
+> 'metal.ball' ⬇️
+
+| on:command | &rarr; | do:add ahead |
+| ---------: | ------ | ------------ |
 
 > 'metall.ball' ➕
 
@@ -45,24 +50,34 @@ __Augmentation Pattern__
 
 __Behavior Pattern__
 
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of a list of staging ahead actions.
-  * _Event_: on floor detection
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of a list of staging ahead actions upon detection of the horizontal plane as anchorage point.
+  * _Event_: Horizontal plane detection.
 
 __Augmentation Patterns__
 
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting three 3D objects 1 m in front of the user at differnt heights.
-  * _Placed_: initial ahead of the user. The first on the floor, the others above it.
-  * _Aligned_: initial towards the user in view direction.
+* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting two objects in front of the user at differnt heights.
+  * _Placed_: Initial ahead of the user immediately upon anchor point detection. The first on the horizontal plane, the other above it.
+  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the anchorage point.
 
 ### Diagram
 
-| on:command | &rarr; | do:add ahead 0 0 -1 |
-| ---------- | ------ | ------------------- |
+| on:command | &rarr; | do:import to project |
+| ---------- | ------ | -------------------- |
+
+> 'spring' ⬇️
+
+| on:command | &rarr; | do:add ahead |
+| ---------- | ------ | ------------ |
 
 > 'spring' ➕
 
-| on:command | &rarr; | do:add ahead 0 0.87 -1 |
-| ---------- | ------ | ---------------------- |
+| on:command | &rarr; | do:import to project |
+| ---------- | ------ | -------------------- |
+
+> 'cylinder' ⬇️
+
+| on:command | &rarr; | do:add ahead |
+| ---------- | ------ | ------------ |
 
 > 'cylinder' ➕
 
