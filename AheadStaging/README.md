@@ -51,7 +51,7 @@ __Augmentation Pattern__
 __Behavior Pattern__
 
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden.
-  * Event; On start
+  * Event: On start
 * [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, it initiates the ahead staging action that places the chess pieces on the board.
   * _Event_: On tapping
 
