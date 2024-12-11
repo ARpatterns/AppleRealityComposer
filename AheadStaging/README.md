@@ -33,57 +33,14 @@ __Augmentation Pattern__
 
 > 'metal.ball' ⬇️
 
-| on:command | &rarr; | do:add ahead |
-| ---------: | ------ | ------------ |
+| on:click | &rarr; | do:add ahead |
+| -------: | ------ | ------------ |
 
 > 'metall.ball' ➕
 
 ### Project file
 
 * _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
-
-## Multiple Ahead Staging
-
-![image](image/Cylinder_spring.png)
-
-### AR Patterns
-
-__Behavior Pattern__
-
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of a list of staging ahead actions upon detection of the horizontal plane as anchorage point.
-  * _Event_: Horizontal plane detection.
-
-__Augmentation Patterns__
-
-* [Ahead Staging](https://github.com/ARpatterns/catalog/blob/main/augmentation-patterns/ahead-staging.md): presenting two objects in front of the user at differnt heights.
-  * _Placed_: Initial ahead of the user immediately upon anchor point detection. The first on the horizontal plane, the other above it.
-  * _Pivot_: Reality Composer objects in the local coordinate system are centered on the anchorage point.
-
-### Diagram
-
-| on:command | &rarr; | do:import to project |
-| ---------- | ------ | -------------------- |
-
-> 'spring' ⬇️
-
-| on:command | &rarr; | do:add ahead |
-| ---------- | ------ | ------------ |
-
-> 'spring' ➕
-
-| on:command | &rarr; | do:import to project |
-| ---------- | ------ | -------------------- |
-
-> 'cylinder' ⬇️
-
-| on:command | &rarr; | do:add ahead |
-| ---------- | ------ | ------------ |
-
-> 'cylinder' ➕
-
-### Project File
-
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/MultipleAheadStaging)
 
 ## Indirect Ahead Staging
 
@@ -93,6 +50,8 @@ __Augmentation Patterns__
 
 __Behavior Pattern__
 
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden.
+  * Event; On start
 * [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, it initiates the ahead staging action that places the chess pieces on the board.
   * _Event_: On tapping
 
@@ -118,8 +77,13 @@ __Augmentation Pattern__
 
 > 'text' ➕
 
-| on: button press | &rarr; | do:add ahead |
-| ---------------- | ------ | ------------ |
+| on:start | → | do:hide |
+| -------- | -- | ------- |
+
+> 'chess.figures' ➕
+
+| on: button tap | &rarr; | do:add ahead |
+| -------------- | ------ | ------------ |
 
 > 'chess.figures' ➕
 
