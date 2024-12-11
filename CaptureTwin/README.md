@@ -34,8 +34,7 @@ compatibility or reprocessed on a Mac for enhanced quality.
 
 __Behavior Pattern__
 
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md):
-  After Object Capture and import of the captured twin. Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage point.
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): After Object Capture and import of the captured twin. Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage point.
   * _Event_: Horizontal plane detection.
 
 __Augmentation Pattern__
