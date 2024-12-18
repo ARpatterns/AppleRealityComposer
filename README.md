@@ -29,10 +29,30 @@ Presentation of 3D content ahead of user.
 
 ### Anchored Supplement
 
-![image](image/Bottle_water.png)
+![image](AnchoredSupplement/image/anchoredsupplement.gif)
 
 Presentation of 3D content aligned to detected entity for enhancement.
 
 * _Behavioral Patterns_: Indirect Reaction
-* _Augmentation Patterns_: Captured Twin, Anchored Supplement
-* _Project Link_: [AnchoredSupplement](AnchoredSupplement)
+* _Augmentation Patterns_: Anchored Supplement
+* _Project Link_: [AnchoredSupplement](AnchoredSupplement/README.md)
+
+### Capture Twin
+
+<img src="CaptureTwin/image/Bottle.png" width="250"/>
+
+Presentation of captured 3D object as a twin ahead of user.
+
+* _Behavioral Patterns_: Instant Reaction
+* _Augmentation Patterns_: Ahead Staging
+* _Project Link_: [CaptureTwin](CaptureTwin/README.md)
+
+### Pass-through Portal
+
+<img src="Pass-throughPortal/image/Sphere.png" width="250"/>
+
+Presentation of a pass-through portal with a 360° mountains sphere.
+
+* _Behavioral Patterns_: Instant Reaction and Conditional Reaction
+* _Augmentation Patterns_: Pass-Through Portal
+* _Project Link_: [Pass-Through Portal](CaptureTwin/README.md)
