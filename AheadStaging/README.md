@@ -35,7 +35,7 @@ __Augmentation Pattern__
 
 ### Project file
 
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
+* _Link to project and UDSZ file_: [ProjectExamples](AheadStaging/ProjectExamples)
 
 ## Indirect Ahead Staging
 
@@ -82,6 +82,6 @@ __Augmentation Pattern__
 
 > 'chess.figures' ➕
 
-### Project File
+### Project Files
 
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/AheadStaging/ProjectExamples)
+* _Link to project and UDSZ file_: [ProjectExamples](AheadStaging/ProjectExamples)
