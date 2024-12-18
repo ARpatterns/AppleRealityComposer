@@ -1,6 +1,6 @@
 # Pass-through Portal
 
-![image](Pass-throughPortal.png)
+![image](image/Pass-throughPortal.png)
 
 A pass-trough portal is an augmentation that is initially occluded by a virtual object, which prevents the user from seeing the entire scene. This design is intended to encourage users to engage with the experience by requiring them to pass through a gateway to become fully immersed.
 
@@ -40,13 +40,17 @@ __Behavior Pattern__
 | on:enter | → | do:play |
 | -------: | -- | ------- |
 
-> 'entrance_sound' 
+> 'entrance_sound'
 
 | on:enter | → | do:reveal |
 | -------: | -- | --------- |
 
-> '360_environment' 
+> '360_environment'
 
 ### Project file
 
-* *Link to project and UDSZ file* : [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/InstantAheadStaging)
+* *Link to project and UDSZ file* :
+
+  * [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/Pass-throughPortal/ProjectExamples)
+  * [MountainSphere](https://sketchfab.com/3d-models/free-skybox-mountain-view-bf36a7600bcb4c3081aafc66197c2278#download)
+  * [FantasyWorld](https://sketchfab.com/3d-models/environment-sphere-024bb8ba2eb542dfbda215ee8e83b194#download)
