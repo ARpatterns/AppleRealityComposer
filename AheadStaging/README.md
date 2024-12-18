@@ -13,6 +13,7 @@ Ahead staging is a technique for presenting 3D content in a way that it is align
 
 ![image](image/Metal_ball.png)
 
+
 ### AR Patterns
 
 __Behavior Pattern__
@@ -35,7 +36,7 @@ __Augmentation Pattern__
 
 ### Project file
 
-* _Link to project and UDSZ file_: [ProjectExamples](AheadStaging/ProjectExamples)
+* _Link to project and UDSZ file_: [ProjectExamples](ProjectExamples)
 
 ## Indirect Ahead Staging
 
