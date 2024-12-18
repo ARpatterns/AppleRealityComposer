@@ -47,10 +47,10 @@ __Behavior Pattern__
 
 > '360_environment'
 
-### Project file
+### Project files
+
 
 * *Link to project and UDSZ file* :
-
   * [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/Pass-throughPortal/ProjectExamples)
   * [MountainSphere](https://sketchfab.com/3d-models/free-skybox-mountain-view-bf36a7600bcb4c3081aafc66197c2278#download)
   * [FantasyWorld](https://sketchfab.com/3d-models/environment-sphere-024bb8ba2eb542dfbda215ee8e83b194#download)
