@@ -55,4 +55,4 @@ Presentation of a pass-through portal with a 360° mountains sphere.
 
 * _Behavioral Patterns_: Instant Reaction and Conditional Reaction
 * _Augmentation Patterns_: Pass-Through Portal
-* _Project Link_: [Pass-Through Portal](CaptureTwin/README.md)
+* _Project Link_: [Pass-Through Portal](Pass-throughPortal/README.md)
