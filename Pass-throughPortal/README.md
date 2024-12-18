@@ -49,7 +49,6 @@ __Behavior Pattern__
 
 ### Project files
 
-
 * *Link to project and UDSZ file* :
   * [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/Pass-throughPortal/ProjectExamples)
   * [MountainSphere](https://sketchfab.com/3d-models/free-skybox-mountain-view-bf36a7600bcb4c3081aafc66197c2278#download)
