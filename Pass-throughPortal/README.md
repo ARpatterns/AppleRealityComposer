@@ -12,6 +12,10 @@ A pass-trough portal is an augmentation that is initially occluded by a virtual 
 
 ## Conditional Pass-through Portal
 
+<img src="image/Sphere.png" width="250"/>
+
+[Demo Video](https://youtube.com/shorts/74fUENXLGZo?feature=share)
+
 ### AR Patterns
 
 __Behavior Pattern__
