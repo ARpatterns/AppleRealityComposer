@@ -1,0 +1,57 @@
+[
+  {
+    "displayName" : "Environment_sphere.usdz",
+    "libraryIdentifier" : "373dae3e9f2e0e3bc0e3be37cc901e32",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "eec3359af9326c98e3a23148ccd61c4c",
+    "displayName" : "Dr.usdz",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "ad3d2941d6ce7c800d4aa96f53527dd5",
+    "format" : "model",
+    "displayName" : "Portal_Frame.usdz"
+  },
+  {
+    "format" : "model",
+    "displayName" : "Poké_Ball.usdz",
+    "libraryIdentifier" : "09872ca36789761b4f0147a539ff0801"
+  },
+  {
+    "format" : "model",
+    "displayName" : "Magic_portal.usdz",
+    "libraryIdentifier" : "f116fe5182066e8877538ffd06825e28"
+  },
+  {
+    "libraryIdentifier" : "347847d0a0af8677739e8736c364ce83",
+    "format" : "model",
+    "displayName" : "Magic_Portal.usdz"
+  },
+  {
+    "displayName" : "Sphere Foto.png",
+    "libraryIdentifier" : "ba4edbdc8d47c8a6249e17425a1a7aab",
+    "format" : "image"
+  },
+  {
+    "displayName" : "Playstation 3 (PS3) StartUp - Sound Effect for editing [ ezmp3.cc ].mp3",
+    "libraryIdentifier" : "3daa474ffc6f2f24f9ec4651c0857600",
+    "format" : "audio"
+  },
+  {
+    "displayName" : "Sphere 2 Foto.png",
+    "format" : "image",
+    "libraryIdentifier" : "a4609403fefcb34d6f17bb4869e53fbc"
+  },
+  {
+    "libraryIdentifier" : "272a452484f4b221ea7d0d9dc3fe4dac",
+    "displayName" : "Way_Path_Blocks.usdz",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "655345ced9be6ce5222c7f93979cfcdf",
+    "format" : "model",
+    "displayName" : "FREE_-_SkyBox_Mountain_View.usdz"
+  }
+]

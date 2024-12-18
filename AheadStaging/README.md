@@ -28,11 +28,6 @@ __Augmentation Pattern__
 
 ### Diagram
 
-| on:command | &rarr; | do:import to project |
-| ---------- | ------ | -------------------- |
-
-> 'metal.ball' ⬇️
-
 | on:click | &rarr; | do:add ahead |
 | -------: | ------ | ------------ |
 
@@ -89,4 +84,4 @@ __Augmentation Pattern__
 
 ### Project File
 
-* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/ProjectExamples/MultipleAheadStaging)
+* _Link to project and UDSZ file_: [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/AheadStaging/ProjectExamples)

@@ -68,7 +68,7 @@ __Augmentation Pattern__
 ## References
 
 > [!TIP]
-> Try out the examples: Download and try the files in [ProjectExamples](ProjectExamples) for your AR experience with your own iOS device.
+> Try out the examples: Download and try the files in [ProjectExamples](https://github.com/ARpatterns/AppleRealityComposer/tree/main/CaptureTwin/ProjectExamples) for your AR experience with your own iOS device.
 
 - Apple Reality Composer [App](https://apps.apple.com/us/app/reality-composer/id1462358802)
 - ECA [Diagram](https://github.com/ARpatterns/diagram)

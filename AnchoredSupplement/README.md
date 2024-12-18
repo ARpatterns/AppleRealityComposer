@@ -24,7 +24,6 @@ Provide additional information that is aligned with a detected entity.
   * *Placed* : on detected image.
   * *Aligned* : with detected image.
 
-
 ## ECA Diagram
 
 | on:start | → | do:detect:image |
