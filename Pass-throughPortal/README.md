@@ -24,8 +24,8 @@ __Behavior Pattern__
   * _Event_: On horizontal plane detection.
 * [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Ensures the inner sphere (360° environment) is occluded until the user walks inside the outer sphere.
   * *Event* : User position crosses the boundary of the outer sphere.
-  * *Reaction* : The 360° immersive environment becomes visible to the user once inside.
-  * *Condition* : `userPosition.insideOuterSphere == true`.
+  * *Condition* : User position inside sphere.
+  * *Action* : The 360° immersive environment becomes visible to the user once inside.
 
 **Augmentation Pattern**
 
