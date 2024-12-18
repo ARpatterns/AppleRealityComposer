@@ -85,4 +85,4 @@ __Augmentation Pattern__
 
 ### Project Files
 
-* _Link to project and UDSZ file_: [ProjectExamples](AheadStaging/ProjectExamples)
+* _Link to project and UDSZ file_: [ProjectExamples](ProjectExamples)
