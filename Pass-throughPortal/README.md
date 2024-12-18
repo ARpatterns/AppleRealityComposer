@@ -39,6 +39,7 @@ __Behavior Pattern__
 | -------: | -- | ------ |
 
 > '360_sphere1' ➕
+>
 > '360_sphere2' ➕
 
 | on:enter | → | do:play |
