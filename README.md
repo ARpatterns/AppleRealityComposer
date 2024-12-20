@@ -11,7 +11,7 @@
 
 ## Reality Composer App
 
-Reality Composer is a no-code AR app available for iPhone and iPad and may be download for free on the Apple App Store. The following scenarios of applied AR Patterns listed below are all provided as Reality Composer projects.
+Reality Composer is a no-code AR app available for iPhone and iPad and may be downloaded for free on the Apple App Store. The following scenarios of applied AR Patterns listed below are all provided as Reality Composer projects.
 
 ## Basic AR Patterns
 
