@@ -38,7 +38,7 @@ __Augmentation Pattern__
 
 * _Link to project and UDSZ file_: [ProjectExamples](ProjectExamples)
 
-## Indirect Ahead Staging
+## Conditional Ahead Staging
 
 ![image](image/Chessboard.gif)
 
@@ -48,7 +48,7 @@ __Behavior Pattern__
 
 * [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden.
   * Event: On start
-* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, it initiates the ahead staging action that places the chess pieces on the board.
+* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, the already added chess figures are unhidden to become visible. (Hint: it is not possible toload dynamically new 3D objects into the scene, therefore all objects have to initially be loaded.) 
   * _Event_: On tapping
 
 __Augmentation Pattern__
