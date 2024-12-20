@@ -58,30 +58,35 @@ __Augmentation Pattern__
 
 ### Diagram
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'chessboard' ➕
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'red.button' ➕
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'text' ➕
 
+| on:command | &rarr; | do:add ahead |
+| ---------- | ------ | ------ |
+
+> 'chess.figures' ➕
+
 | on:start | → | do:hide |
 | -------- | -- | ------- |
 
-> 'chess.figures' ➕
+> 'chess.figures'
 
-| on: button tap | &rarr; | do:add ahead |
+| on: button tap | &rarr; | do:unhide |
 | -------------- | ------ | ------------ |
 
-> 'chess.figures' ➕
+> 'chess.figures'
 
 ### Project Files
 
