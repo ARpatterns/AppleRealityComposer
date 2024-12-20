@@ -31,7 +31,7 @@ Provide additional information that is aligned with a detected entity.
 
 > '[image](image/emergency_image.png)' detection as anchor👁
 >
-> | *on:detect* | → | *do:add ahead* |
+> | *on:detect* | → | *do:add to AR anchor* |
 > | ------------- | -- | ---------------- |
 >
 >> objects added and aligned to image ➕
