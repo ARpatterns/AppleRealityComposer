@@ -1,4 +1,4 @@
-# Capture Twin
+# Captured Twin
 
 ![image](image/Capture_twin.png)
 
