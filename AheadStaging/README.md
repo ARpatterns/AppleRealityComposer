@@ -46,9 +46,9 @@ __Augmentation Pattern__
 
 __Behavior Pattern__
 
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden.
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden. (Hint: it is not possible to load dynamically new 3D objects into the scene, therefore all objects have to initially be loaded.) 
   * Event: On start
-* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, the already added chess figures are unhidden to become visible. (Hint: it is not possible toload dynamically new 3D objects into the scene, therefore all objects have to initially be loaded.) 
+* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, the already added chess figures are unhidden to become visible. 
   * _Event_: On tapping
 
 __Augmentation Pattern__
