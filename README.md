@@ -49,7 +49,7 @@ Presentation of captured 3D object as a twin ahead of user.
 
 ### Pass-through Portal
 
-<img src="Pass-throughPortal/image/Sphere.png" width="250"/>
+![image](Pass-throughPortal/image/Sphere.gif)
 
 Presentation of a pass-through portal with a 360° mountains sphere.
 
