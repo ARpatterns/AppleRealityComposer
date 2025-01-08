@@ -38,7 +38,7 @@ __Augmentation Pattern__
 
 * _Link to project and UDSZ file_: [ProjectExamples](ProjectExamples)
 
-## Indirect Ahead Staging
+## Conditional Ahead Staging
 
 ![image](image/Chessboard.gif)
 
@@ -46,9 +46,9 @@ __Augmentation Pattern__
 
 __Behavior Pattern__
 
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden.
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): At start of the scene, the chess pieces are hidden. (Hint: it is not possible to load dynamically new 3D objects into the scene, therefore all objects have to initially be loaded.) 
   * Event: On start
-* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, it initiates the ahead staging action that places the chess pieces on the board.
+* [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Upon clicking on the red button, the already added chess figures are unhidden to become visible. 
   * _Event_: On tapping
 
 __Augmentation Pattern__
@@ -58,30 +58,35 @@ __Augmentation Pattern__
 
 ### Diagram
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'chessboard' ➕
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'red.button' ➕
 
-| on:command | &rarr; | do:add |
+| on:command | &rarr; | do:add ahead |
 | ---------- | ------ | ------ |
 
 > 'text' ➕
 
+| on:command | &rarr; | do:add ahead |
+| ---------- | ------ | ------ |
+
+> 'chess.figures' ➕
+
 | on:start | → | do:hide |
 | -------- | -- | ------- |
 
-> 'chess.figures' ➕
+> 'chess.figures'
 
-| on: button tap | &rarr; | do:add ahead |
+| on: button tap | &rarr; | do:unhide |
 | -------------- | ------ | ------------ |
 
-> 'chess.figures' ➕
+> 'chess.figures'
 
 ### Project Files
 

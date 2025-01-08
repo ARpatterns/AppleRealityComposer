@@ -20,7 +20,7 @@ A pass-trough portal is an augmentation that is initially occluded by a virtual 
 
 __Behavior Pattern__
 
-* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of the staging ahead action upon detection of the horizontal plane as anchorage point.
+* [Instant Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/instant-reaction.md): Immediate execution of the staging ahead action upon detection of the horizontal floor plane as anchorage point.
   * _Event_: On horizontal plane detection.
 * [Conditional Reaction](https://github.com/ARpatterns/catalog/blob/main/behavioral-patterns/conditional-reaction.md): Ensures the inner sphere (360° environment) is occluded until the user walks inside the outer sphere.
   * *Event* : User position crosses the boundary of the outer sphere.

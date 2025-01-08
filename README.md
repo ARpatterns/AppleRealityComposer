@@ -11,7 +11,7 @@
 
 ## Reality Composer App
 
-Reality Composer is a no-code AR app available for iPhone and iPad and may be download for free on the Apple App Store. The following scenarios of applied AR Patterns listed below are all provided as Reality Composer projects.
+Reality Composer is a no-code AR app available for iPhone and iPad and may be downloaded for free on the Apple App Store. The following scenarios of applied AR Patterns listed below are all provided as Reality Composer projects.
 
 ## Basic AR Patterns
 
@@ -37,7 +37,7 @@ Presentation of 3D content aligned to detected entity for enhancement.
 * _Augmentation Patterns_: Anchored Supplement
 * _Project Link_: [AnchoredSupplement](AnchoredSupplement/README.md)
 
-### Capture Twin
+### Captured Twin
 
 <img src="CaptureTwin/image/Bottle.png" width="250"/>
 
